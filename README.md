@@ -40,7 +40,7 @@ Start the server
 https://drive.google.com/drive/folders/1hL9DfSZhlNqOyucblTR58Js3az1QovwQ?usp=sharing
 
 ## Working link
-https://fathomless-cliffs-89976.herokuapp.com/54aa15c7-21f7-4a11-a97b-d8434560f79e
+https://fathomless-cliffs-89976.herokuapp.com
 
 ## Screenshots
 
