@@ -26,6 +26,16 @@ Start the server
   npm run start
 ```
 
+## Tech Stack:
+
+ - node.js
+ - WebRTC using regular javascript APIs
+ - socket.io library
+ - EJS
+ - CSS
+ - Heroku for hosting
+
+
 ## Screenshots
 
 ![Screenshot (1063)](https://user-images.githubusercontent.com/79793334/125494119-4f5b081b-b48b-4d82-a875-ea399a6cb0f6.png)
