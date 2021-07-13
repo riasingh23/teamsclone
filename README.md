@@ -30,6 +30,7 @@ Start the server
 
  - node.js
  - WebRTC using regular javascript APIs
+ - PeerJS
  - socket.io library
  - EJS
  - CSS
