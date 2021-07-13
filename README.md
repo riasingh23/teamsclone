@@ -34,7 +34,7 @@ Start the server
  - socket.io library
  - EJS
  - CSS
- - Heroku for hosting
+ - Heroku for hosting website
 
 
 ## Screenshots
