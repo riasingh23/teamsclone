@@ -25,3 +25,9 @@ Start the server
 ```bash
   npm run start
 ```
+
+## Authors
+
+- [@riasingh23](https://www.github.com/riasingh23)
+
+  
