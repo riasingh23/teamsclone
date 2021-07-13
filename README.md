@@ -5,13 +5,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
+  git clone https://https://github.com/riasingh23/teamsclone
 ```
 
 Install dependencies
