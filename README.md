@@ -1,11 +1,18 @@
-# teamsclone
+# Microsoft Engage 2021
+## Teams-clone
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/riasingh23/teamsclone
+  git clone https://github.com/riasingh23/teamsclone.git
+```
+
+Go to the project directory
+
+```bash
+  cd teamsclone
 ```
 
 Install dependencies
@@ -20,11 +27,14 @@ Start the server
   npm run start
 ```
 
+After the above setup visit http://localhost:3030/ and the enjoy the project.
+
 ## Tech Stack:
 
  - node.js
  - WebRTC using regular javascript APIs
  - PeerJS
+ - Express.js
  - socket.io library
  - EJS
  - CSS
