@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone https://https://github.com/riasingh23/teamsclone
+  git clone https://github.com/riasingh23/teamsclone
 ```
 
 Install dependencies
