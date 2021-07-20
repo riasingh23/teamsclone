@@ -40,9 +40,6 @@ After the above setup visit http://localhost:3030/ and the enjoy the project.
  - CSS
  - Heroku for hosting website
 
-## Video  Link
-https://drive.google.com/drive/folders/1hL9DfSZhlNqOyucblTR58Js3az1QovwQ?usp=sharing
-
 ## Working link
 https://fathomless-cliffs-89976.herokuapp.com
 
