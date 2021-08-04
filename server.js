@@ -31,7 +31,6 @@ app.get('/thankyou', (
   
   io.on('connection', socket => {
     socket.on('join-room', (roomId,userId) => {
-      console.log("room joined");
       socket.join(roomId);
       socket.broadcast.to(roomId).emit('user-connected',userId);
 
