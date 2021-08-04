@@ -179,10 +179,6 @@ $(document).ready(function(){
 });
 
 
-const leave = () => {
-
-}
-
 document.getElementById('leave_meeting').addEventListener('click', () => {
   const leaveRoom = confirm('Are you sure you want to leave the chatroom?');
   if (leaveRoom) {
